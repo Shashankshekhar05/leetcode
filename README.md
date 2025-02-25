@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mahi0503/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Mahi0503/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
