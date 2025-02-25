@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mahi0503/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mahi0503/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
