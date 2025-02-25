@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mahi0503/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Mahi0503/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mahi0503/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mahi0503/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Mahi0503/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mahi0503/leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Mahi0503/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
