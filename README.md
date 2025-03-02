@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mahi0503/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mahi0503/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Mahi0503/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Mahi0503/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mahi0503/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Mahi0503/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mahi0503/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mahi0503/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Mahi0503/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
