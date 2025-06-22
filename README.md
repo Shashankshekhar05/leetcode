@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Mahi0503/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahi0503/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mahi0503/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/Mahi0503/leetcode/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Mahi0503/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mahi0503/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Mahi0503/leetcode/tree/master/2087-confirmation-rate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Mahi0503/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
