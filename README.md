@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahi0503/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mahi0503/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/Mahi0503/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Mahi0503/leetcode/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mahi0503/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahi0503/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahi0503/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Mahi0503/leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
