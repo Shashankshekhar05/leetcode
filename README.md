@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahi0503/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mahi0503/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mahi0503/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mahi0503/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mahi0503/leetcode/tree/master/0031-next-permutation) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mahi0503/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Mahi0503/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
 ## Greedy
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Mahi0503/leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mahi0503/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahi0503/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
