@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahi0503/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahi0503/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mahi0503/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mahi0503/leetcode/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mahi0503/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/Mahi0503/leetcode/tree/master/0817-design-hashmap) |
 ## Stack
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mahi0503/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
 ## Binary Search
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahi0503/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 ## Design
 |  |
 | ------- |
