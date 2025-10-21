@@ -1,6 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
-     int majority_element=-1;
+  /*   int majority_element=-1;
      int count =0;
      for(int i=0;i<nums.length;i++){
         if(count==0){
@@ -25,7 +25,9 @@ class Solution {
     return majority_element;
    }
         
-      return -1;
+      return -1;*/
+      Arrays.sort(nums);
+      return nums[nums.length/2];
     }
     
 }
