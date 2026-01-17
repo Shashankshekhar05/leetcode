@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahi0503/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahi0503/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Mahi0503/leetcode/tree/master/0792-binary-search) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mahi0503/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mahi0503/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mahi0503/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mahi0503/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Mahi0503/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mahi0503/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mahi0503/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mahi0503/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Recursion
 |  |
 | ------- |
