@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mahi0503/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahi0503/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahi0503/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mahi0503/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mahi0503/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mahi0503/leetcode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahi0503/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/Mahi0503/leetcode/tree/master/0817-design-hashmap) |
 ## Stack
