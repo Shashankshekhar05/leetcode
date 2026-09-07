@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mahi0503/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mahi0503/leetcode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Mahi0503/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahi0503/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mahi0503/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mahi0503/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mahi0503/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Mahi0503/leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/Mahi0503/leetcode/tree/master/0817-design-hashmap) |
 ## Stack
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mahi0503/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mahi0503/leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Mahi0503/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Mahi0503/leetcode/tree/master/0274-h-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mahi0503/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
